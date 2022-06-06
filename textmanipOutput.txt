@@ -1,23 +1,47 @@
+<_io.TextIOWrapper name='mbox.txt' mode='r' encoding='cp1252'>
 hello hello
+
 test 
+
+
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dapibus, nisl non iaculis efficitur, purus turpis pharetra lorem, condimentum maximus enim tortor id nisl. Nulla a mattis dolor. Quisque viverra, enim in porta imperdiet, nibh mauris vulputate arcu, at tempus ipsum orci id nisl. Duis et neque turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam vitae aliquam metus, quis ultricies nulla. Donec gravida dui id ipsum sagittis, convallis scelerisque massa ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
+
+
 Morbi blandit facilisis iaculis. Ut consectetur fermentum dui in posuere. Donec vel faucibus tortor. Mauris libero libero, convallis eu pulvinar at, ultrices in neque. Duis sit amet velit risus. Suspendisse dapibus justo maximus, tincidunt mauris vitae, congue lacus. Donec maximus sed tortor in pulvinar. Integer non rutrum magna. Fusce quis libero sed mauris dignissim lobortis ac at sapien. Mauris nec ligula ac metus egestas convallis. Morbi faucibus tempor nisi eget mollis.
+
+
 
 Suspendisse tincidunt non ligula a viverra. Praesent feugiat turpis at accumsan volutpat. Proin lacinia maximus lobortis. Sed malesuada elementum sapien, et dapibus odio tincidunt nec. Nam sit amet erat tincidunt, vehicula eros vel, auctor ligula. Nunc aliquam fringilla mattis. In tempus luctus hendrerit. Pellentesque pulvinar, ipsum non dignissim pellentesque, massa leo mattis nunc, nec hendrerit libero turpis aliquet odio. Nulla a ipsum a ex porta sollicitudin. Vestibulum vel quam nec sem interdum iaculis. Donec vel nunc ipsum. Aliquam in vehicula augue, ac elementum ligula. Vivamus varius tempus turpis, non rhoncus nunc ultricies malesuada. Morbi pharetra dolor quis libero lobortis cursus. Quisque rutrum feugiat leo consectetur sodales. Quisque non finibus metus.
 
+
+
 Ut dolor libero, vestibulum accumsan egestas vitae, ornare id tortor. Maecenas commodo magna nunc, in eleifend nulla euismod id. Curabitur lacinia, augue ac vulputate finibus, lorem nunc dapibus odio, et eleifend nulla diam eget elit. Fusce tristique odio ex, id aliquet metus vulputate at. Cras quis tellus vel diam aliquam elementum. Quisque convallis in elit at efficitur. Integer scelerisque lectus vel scelerisque commodo. Fusce quis neque sit amet nibh aliquam elementum. Praesent eget auctor sem, a malesuada sem. Sed pulvinar elementum eros quis consectetur. Pellentesque in consectetur justo, non tempor ligula. Pellentesque sit amet rutrum massa. Praesent cursus lorem ligula, sit amet ultrices nisl ornare a. Pellentesque suscipit sapien dolor, vel egestas magna fringilla tincidunt. Praesent mattis purus ac efficitur maximus.
+
+
 
 Aenean gravida luctus mauris ac venenatis. Cras nec dolor varius, laoreet justo at, ultrices metus. Duis ut ligula diam. Sed pharetra lacus nisl, eu laoreet nunc cursus quis. Sed ullamcorper mollis quam, id euismod nisl scelerisque ac. Praesent sollicitudin ligula a urna dignissim, id viverra ante tincidunt. Phasellus imperdiet vehicula mollis. Sed vitae malesuada ligula. Sed condimentum viverra justo, vitae pulvinar velit. In ullamcorper maximus vestibulum. Pellentesque a eros sit amet nunc consectetur imperdiet. Aliquam quis elementum quam, vel scelerisque erat. Aenean a lacinia felis. Aliquam volutpat tellus vel odio lacinia facilisis eu in neque. Vivamus pellentesque nulla in nisi mollis eleifend. Nullam in nisi dolor.
 
+
+
 Aenean sagittis ligula sit amet lorem cursus pharetra. Nullam pellentesque pharetra hendrerit. Morbi rhoncus, massa in mattis aliquet, neque nibh gravida enim, et posuere lorem turpis id purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc rhoncus nunc est, sed sollicitudin turpis iaculis ut. Integer in diam et lectus ullamcorper pharetra ac vel eros. Etiam dignissim rhoncus fringilla. Maecenas congue pretium orci et commodo.
+
+
 
 Curabitur quis justo sit amet augue sagittis sodales sed vitae eros. Donec at libero id justo euismod lacinia. Aliquam sollicitudin cursus tellus, vitae porta lacus pharetra porttitor. Quisque pretium nec arcu non tempus. Fusce sagittis euismod libero, id facilisis felis ullamcorper id. Aliquam eget euismod mauris. Ut pulvinar tincidunt mauris vel maximus. Fusce tempor elit eget elit fermentum tincidunt. Proin finibus convallis facilisis. Phasellus bibendum mattis urna, sed venenatis nulla posuere aliquet. Mauris quis tempor tortor, vel dignissim eros. Praesent in ligula nec massa ultricies finibus. Aliquam sed arcu risus. In ut vehicula neque. Proin efficitur erat nec malesuada interdum. Aenean fringilla ex orci, et tempor augue tempor volutpat.
 
+
+
 Morbi rhoncus dictum odio luctus condimentum. Nullam libero quam, pretium a lacinia vitae, vulputate vehicula enim. Pellentesque sit amet sapien a augue consequat sagittis tincidunt non erat. Mauris nulla felis, ultrices ac sapien quis, sagittis dignissim mauris. Cras erat turpis, tempus vel malesuada id, lacinia fringilla ante. Fusce orci est, mollis sit amet pulvinar lacinia, volutpat a justo. Nulla laoreet quam dui, ut blandit nunc consectetur ut. Sed purus velit, maximus eu orci eu, ullamcorper pharetra erat. Phasellus feugiat pharetra felis, nec lacinia ligula hendrerit at.
+
+
 
 Nullam sagittis purus turpis, sed faucibus augue posuere at. Sed tincidunt auctor orci, ut suscipit dui mollis a. Quisque faucibus, urna vulputate rhoncus vestibulum, nibh lacus efficitur justo, id posuere turpis quam id mi. Suspendisse vestibulum blandit sodales. Cras sed felis id lectus gravida placerat. Pellentesque sit amet arcu sit amet eros ullamcorper eleifend. Aenean maximus tincidunt blandit. Duis neque sapien, consectetur nec placerat non, luctus sodales enim.
 
+
+
 Pellentesque ante turpis, vulputate ut sem id, iaculis consectetur purus. Sed quis leo et nulla scelerisque consequat a vitae purus. Nullam tempor quam ex, et interdum arcu vulputate blandit. Nulla vitae massa in leo ullamcorper blandit quis nec nunc. Duis lectus eros, auctor eu egestas id, bibendum sit amet diam. Mauris bibendum urna sit amet ullamcorper volutpat. Proin in eleifend sem, ullamcorper mattis diam. Sed malesuada at quam id ornare. Praesent nec rutrum diam, ut imperdiet odio. Quisque a tortor turpis.
+
