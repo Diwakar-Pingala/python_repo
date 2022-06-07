@@ -1,10 +1,12 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 From david.horwitz@uct.ac.za Fri Jan  4 07:02:32 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
 r39753 | david.horwitz@uct.ac.za | 2008-01-04 13:05:51 +0200 (Fri, 04 Jan 2008) | 1 line
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39753 https://source.sakaiproject.org/svn/polls/trunk polls/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn resolved polls/tool/src/webapp/WEB-INF/requestContext.xml
 From david.horwitz@uct.ac.za Fri Jan  4 06:08:27 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
@@ -13,12 +15,14 @@ From david.horwitz@uct.ac.za Fri Jan  4 04:49:08 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge  -c39641 https://source.sakaiproject.org/svn/podcasts/trunk podcasts/
 From david.horwitz@uct.ac.za Fri Jan  4 04:33:44 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39146 https://source.sakaiproject.org/svn/podcasts/trunk podcasts/
+From stephen.marquard@uct.ac.za Fri Jan  4 04:07:34 2008
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 r35793 | david.horwitz@uct.ac.za | 2007-09-26 05:26:53 -0400 (Wed, 26 Sep 2007) | 2 lines
 r38153 | david.horwitz@uct.ac.za | 2007-11-14 01:53:07 -0500 (Wed, 14 Nov 2007) | 1 line
 r39548 | david.horwitz@uct.ac.za | 2007-12-20 10:00:05 -0500 (Thu, 20 Dec 2007) | 1 line
@@ -26,47 +30,22 @@ From david.horwitz@uct.ac.za Wed Jan  2 09:54:32 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39640 https://source.sakaiproject.org/svn/gradebook/trunk gradebook/
 From david.horwitz@uct.ac.za Wed Jan  2 09:40:42 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39375 https://source.sakaiproject.org/svn/msgcntr/trunk msgcntr/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39598 https://source.sakaiproject.org/svn/reference/trunk reference/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39599 https://source.sakaiproject.org/svn/component/trunk component/
 From david.horwitz@uct.ac.za Wed Jan  2 09:38:43 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39202 https://source.sakaiproject.org/svn/search/trunk search/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39202 https://source.sakaiproject.org/svn/usermembership/trunk usermembership/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39203 https://source.sakaiproject.org/svn/usermembership/trunk usermembership/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39204 https://source.sakaiproject.org/svn/velocity/trunk velocity/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39205 https://source.sakaiproject.org/svn/rwiki/trunk rwiki/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39206 https://source.sakaiproject.org/svn/site-manage/trunk site-manage/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39207 https://source.sakaiproject.org/svn/assignment/trunk assignment/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39359 https://source.sakaiproject.org/svn/assignment/trunk assignment/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39368 https://source.sakaiproject.org/svn/sam/trunk sam
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39375 https://source.sakaiproject.org/svn/msgcntr/trunk msgcntr/
 From david.horwitz@uct.ac.za Wed Jan  2 09:16:03 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39197 https://source.sakaiproject.org/svn/user/trunk user
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39198 https://source.sakaiproject.org/svn/presence/trunk presence/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39199 https://source.sakaiproject.org/svn/citations/trunk citations/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39200 https://source.sakaiproject.org/svn/content/trunk content
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39200 https://source.sakaiproject.org/svn/roster/trunk roster/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39201 https://source.sakaiproject.org/svn/roster/trunk roster/
 From david.horwitz@uct.ac.za Wed Jan  2 09:07:48 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39192 https://source.sakaiproject.org/svn/mailarchive/trunk mailarchive/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39193 https://source.sakaiproject.org/svn/msgcntr/trunk msgcntr/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39194 https://source.sakaiproject.org/svn/message/trunk message/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39195 https://source.sakaiproject.org/svn/portal/trunk portal/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -c39196 https://source.sakaiproject.org/svn/login/trunk login/
 From david.horwitz@uct.ac.za Wed Jan  2 08:55:03 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
@@ -115,6 +94,14 @@ From david.horwitz@uct.ac.za Wed Jan  2 02:53:22 2008
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
+From stephen.marquard@uct.ac.za Mon Dec 24 03:06:42 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Mon Dec 24 02:06:31 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 From david.horwitz@uct.ac.za Fri Dec 21 09:54:17 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
@@ -136,6 +123,10 @@ From david.horwitz@uct.ac.za Fri Dec 21 09:09:23 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
+From stephen.marquard@uct.ac.za Fri Dec 21 09:08:22 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 From david.horwitz@uct.ac.za Fri Dec 21 09:03:52 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
@@ -186,19 +177,26 @@ From david.horwitz@uct.ac.za Thu Dec 20 07:59:57 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge --dry-run -r39522:39522 https://source.sakaiproject.org/svn/msgcntr/branches/sakai_2-5-x msgcntr/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge --dry-run -r39522:39521 https://source.sakaiproject.org/svn/msgcntr/branches/sakai_2-5-x msgcntr/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge  -r39522:39521 https://source.sakaiproject.org/svn/msgcntr/branches/sakai_2-5-x msgcntr/
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge  -r39522:39521 https://source.sakaiproject.org/svn/gradebook/branches/sakai_2-5-x gradebook/
+From stephen.marquard@uct.ac.za Thu Dec 20 06:43:49 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 From david.horwitz@uct.ac.za Thu Dec 20 05:49:17 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-dhorwitz@david-horwitz-6:~/branchManagemnt/sakai_2-5-x> svn merge -r39524:39525  https://source.sakaiproject.org/svn/reset-pass/trunk reset-pass/
 From david.horwitz@uct.ac.za Thu Dec 20 05:39:52 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
+From stephen.marquard@uct.ac.za Thu Dec 20 04:22:43 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Thu Dec 20 04:19:28 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 From david.horwitz@uct.ac.za Thu Dec 20 04:13:41 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
@@ -207,10 +205,90 @@ From david.horwitz@uct.ac.za Thu Dec 20 03:59:12 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
-From jlrenfro@ucdavis.edu Mon Dec 17 13:34:32 2007
-X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to jlrenfro@ucdavis.edu using -f
-From: jlrenfro@ucdavis.edu
-Author: jlrenfro@ucdavis.edu
+From stephen.marquard@uct.ac.za Wed Dec 19 13:31:20 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Wed Dec 19 03:40:33 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Wed Dec 19 03:20:57 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Wed Dec 19 03:08:44 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Wed Dec 19 02:55:09 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Wed Dec 19 02:40:51 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 09:08:11 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 07:49:52 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 07:49:28 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 07:49:19 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 07:49:06 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 07:47:38 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:56:24 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:55:54 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:51:56 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:50:02 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:33:34 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:32:11 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Tue Dec 18 06:31:24 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Sun Dec 16 03:59:13 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Sun Dec 16 03:57:28 2007
+X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
+From: stephen.marquard@uct.ac.za
+Author: stephen.marquard@uct.ac.za
 From david.horwitz@uct.ac.za Fri Dec 14 03:31:09 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
@@ -316,8 +394,6 @@ X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.ho
 From: david.horwitz@uct.ac.za
 Author: david.horwitz@uct.ac.za
 r37532 | david.horwitz@uct.ac.za | 2007-10-30 05:35:42 -0400 (Tue, 30 Oct 2007) | 1 line
-patch provided by david horwitz
-patch provided by david horwitz
 From david.horwitz@uct.ac.za Tue Oct 30 07:48:17 2007
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 From: david.horwitz@uct.ac.za
